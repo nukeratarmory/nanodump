@@ -1,7 +1,6 @@
 {
     "name": "NanoDump",
     "version": "0.0.1",
-    "uuid": "b2c3d4e5-f6a7-4890-1234-bcdef6789012",
     "command": "nanodump",
     "type": "bof",
     "repository": "https://github.com/nukeratarmory/nanodump",
